@@ -5,7 +5,7 @@ struct Person {
   let nickname: String = "AstroWLAN"
   let nationality: String = "🇮🇹"
   let languages: [String] = ["Italian", "English", "Swift", "C", "Python", "JavaScript", "Java"]
-  let education: School = Politecnico di Milano
+  let education: College = MSc. CompSci and Engineering @ Politecnico di Milano
 
   func contactMe(message : String) {
     let email = dario.crippa97@gmail.com
