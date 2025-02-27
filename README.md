@@ -1,7 +1,7 @@
 ```swift
 // Hello there!
 struct Person {
-  let name: String = "Dario"
+  let name: String = "Dario Crippa"
   let nickname: String = "AstroWLAN"
   let nationality: String = "🇮🇹"
   let languages: [String] = ["Italian", "English", "Swift", "C", "Python", "JavaScript", "Java"]
